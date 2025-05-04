@@ -44,9 +44,9 @@ let madlip="The Intro to JavaScript course is " + adjective1 + ". James and Juli
 console.log(madlip)
 
 // 7
-let firstName = "Rana";
-let interest = "coding";
-let  hobby = "drawing";
+let firstName = "Julia";
+let interest = "cats";
+let  hobby = "play video games";
 let awesomeMessage = "Hi, my name is " + firstName + ". I love " + interest + ". In my spare time, I like to " + hobby + ".";
 console.log(awesomeMessage);
 
